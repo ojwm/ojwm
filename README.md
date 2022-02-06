@@ -31,3 +31,5 @@ Previously an Oracle SQL, PL/SQL and Apex developer.
 !["jira"](https://img.shields.io/badge/-Jira-grey?style=flat-square&logo=jira&logoColor=lightskyblue)
 !["confluence"](https://img.shields.io/badge/-Confluence-grey?style=flat-square&logo=confluence&logoColor=lightskyblue)
 !["bitbucket"](https://img.shields.io/badge/-Bitbucket-grey?style=flat-square&logo=bitbucket&logoColor=lightskyblue)
+
+Copyright © 2022.
