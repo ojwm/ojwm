@@ -1,18 +1,31 @@
 <!-- markdownlint-disable MD025 MD033 MD041 -->
 !["arashiyama"](arashiyama.jpeg)
 
-# 👨🏻‍💻 About
+# 👨🏻‍💻 Hello
 
-Enjoys full stack development, building React user interfaces and RESTful APIs.\
-Previously an Oracle SQL, PL/SQL and Apex developer.
+I'm a full stack developer for [IBM](https://www.ibm.com/).\
+Previously I've been an Oracle Database PL/SQL developer and a robotic process automation developer, in the financial services industry.
 
-[!["linkedin"](https://img.shields.io/badge/-Connect-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/ojwmitchell)
+[!["linkedin"](https://img.shields.io/badge/-Connect-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/ojwmitchell)\
+[!["CV"](https://img.shields.io/badge/-CV-grey?style=social&logo=docusign)](CV_Oliver-Mitchell_2022-05.pdf)
 
-# 🛠 Languages & Tools
+# 🌱 I'm currently learning
+
+* [Spring Boot](https://github.com/ojwm/java-api-rest)
+* Oracle Apex
+* Zero touch deployments
+
+# 💬 Ask me about
+
+* [Development ways of working](https://github.com/ojwm/developer-handbook)
+* React user interfaces
+* Oracle Database SQL & PL/SQL programming
+
+# 🛠 Languages and tools I use
 
 !["react"](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react&logoColor=lightskyblue)
 !["javascript"](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript&logoColor=lightskyblue)
-!["java"](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=java&logoColor=lightskyblue)
+!["java"](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=openjdk&logoColor=lightskyblue)
 !["oracle database"](https://img.shields.io/badge/-Oracle%20Database-grey?style=flat-square&logo=oracle&logoColor=lightskyblue)
 !["shell"](https://img.shields.io/badge/-Shell-grey?style=flat-square&logo=linux&logoColor=lightskyblue)
 
