@@ -3,8 +3,7 @@
 
 # 👨🏻‍💻 Hello
 
-I'm a full stack developer for [IBM](https://www.ibm.com/).\
-Previously I've been an Oracle Database PL/SQL developer and a robotic process automation developer, in the financial services industry.
+I'm a self-employed full stack developer, delivering with Oracle APEX applications. I've previously worked for [IBM](https://www.ibm.com/), [Aviva](https://www.aviva.co.uk/) and [Saga](https://www.saga.co.uk/insurance), delivering full stack React applications, SpringBoot RESTful APIs, Oracle Database PL/SQL applications and robotic process automation solutions.
 
 [!["linkedin"](https://img.shields.io/badge/-Connect-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/ojwmitchell)\
 [!["CV"](https://img.shields.io/badge/-CV-grey?style=social&logo=docusign)](CV_Oliver-Mitchell.pdf)
