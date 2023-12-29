@@ -3,7 +3,7 @@
 
 # 👨🏻‍💻 Hello
 
-I'm a self-employed full stack developer, delivering Oracle APEX applications. I've previously worked for [IBM](https://www.ibm.com/), [Aviva](https://www.aviva.co.uk/) and [Saga](https://www.saga.co.uk/insurance), delivering full stack React applications, SpringBoot RESTful APIs, Oracle Database PL/SQL applications and robotic process automation solutions.
+I'm a business owner and full stack developer, delivering Oracle APEX applications. I've previously worked for [IBM](https://www.ibm.com/), [Aviva](https://www.aviva.co.uk/) and [Saga](https://www.saga.co.uk/insurance), delivering full stack React applications, SpringBoot RESTful APIs, Oracle Database PL/SQL applications and robotic process automation solutions.
 
 [!["linkedin"](https://img.shields.io/badge/-Connect-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/ojwmitchell)\
 [!["CV"](https://img.shields.io/badge/-CV-grey?style=social&logo=docusign)](CV_Oliver-Mitchell.pdf)
@@ -45,4 +45,4 @@ I'm a self-employed full stack developer, delivering Oracle APEX applications. I
 !["confluence"](https://img.shields.io/badge/-Confluence-grey?style=flat-square&logo=confluence&logoColor=lightskyblue)
 !["bitbucket"](https://img.shields.io/badge/-Bitbucket-grey?style=flat-square&logo=bitbucket&logoColor=lightskyblue)
 
-Copyright © 2022.
+Copyright © 2023.
