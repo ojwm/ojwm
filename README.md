@@ -9,12 +9,12 @@ I'm a business owner and full stack developer, delivering Oracle APEX applicatio
 
 # 🌱 I'm currently learning
 
-* Oracle APEX
 * Zero touch deployments
 * Zero trust architecture
 
 # 💬 Ask me about
 
+* Oracle APEX
 * Oracle Database SQL & PL/SQL programming
 * [Development ways of working](https://github.com/ojwm/developer-handbook)
 
